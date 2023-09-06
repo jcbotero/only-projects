@@ -33,3 +33,11 @@ function siteOne() {
   function insta() {
     location.href = "https://www.instagram.com/jucaob10/";
   }
+
+function siteSix() {
+    location.href = "https://calculator-app-wine-xi.vercel.app/";
+  }
+  
+function siteSeven() {
+  location.href = "https://jcbotero.github.io/Expenses-chart/";
+}

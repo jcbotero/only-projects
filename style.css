@@ -69,6 +69,12 @@ body {
     max-width: 150%;
 }
 
+#calcu, #expenses {
+    margin-top: 7%;
+    max-width:  70%;
+  
+}
+
 .portfolio div p i {
    margin-left: 20%;
    cursor: url("./pointer.png"), auto;
